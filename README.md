@@ -28,3 +28,4 @@ Follow these steps to run the application on your local machine using PowerShell
 Open a terminal panel inside the project folder and run:
 ```bash
 python server.py
+
